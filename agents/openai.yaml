@@ -1,0 +1,4 @@
+interface:
+  display_name: "微博热榜观点发布"
+  short_description: "从微博热榜优先筛选汽车与出行热点，写短观点、配事件图并核验发布"
+  default_prompt: "使用 $weibo-hot-publisher，从当前微博热榜选择值得评论的话题，按我的账号风格写短观点、配事件图片，并在核验通过后按本次授权发布。"
