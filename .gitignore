@@ -1,0 +1,12 @@
+# Operational data and authentication must stay local.
+data/
+.env
+.env.*
+!.env.example
+*cookie*
+*token*
+*credential*
+*browser-profile*/
+*.sqlite*
+*.log
+__pycache__/
